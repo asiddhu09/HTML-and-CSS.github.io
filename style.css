@@ -1,0 +1,28 @@
+div{
+    border: 5px solid rgb(93, 45, 45);
+    border-radius: 30px ;
+    margin: 25px;
+    padding: 15px;
+}
+img{
+    margin: 25px;
+    
+}
+p{
+    margin: 25px;
+}
+h2{
+    margin: 25px;
+}
+div.class1{
+    border: 5px solid rgb(15, 17, 15);
+    background-color: rgb(154, 153, 153);
+    margin: 25px;
+}
+
+div#id1{
+    border: 3px solid black;
+    border-radius: 15px;
+    background-color: rgb(220, 126, 126);
+    margin: 25px;
+}
